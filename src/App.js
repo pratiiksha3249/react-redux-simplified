@@ -12,6 +12,7 @@ import UsingReduce from './useReducer/UsingReduce';
 import UseFetch from './customhooks/UseFetch';
 import UseReduxx from './components/UseReduxx';
 
+//i am tiksha.....
 function App() {
 
   const [name, setname] = useState('Amit');
